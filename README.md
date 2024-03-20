@@ -1,3 +1,12 @@
-# Proyecto-v1
-Este proyecto es para la materia de Programación para Internet. Tiene Front-end, Back-end y utiliza una IA.
-Lista de to do, almacena cada usuario y al poner una oración tome un verbo de esta misma y entienda de lo que se está hablando, al final se agrega el to do ingresado a la lista de cada usuario correspondiente.
+ToDo App
+Descripcion
+Crea un servidor en Node capaz de almacenar cuentas de usuario junto con una lista de todos (quehaceres), con la capacidad de generarlos utilizando IA.
+
+Desplegar localmente
+Clonar el repositorio
+Instalar paquetes npm (npm i)
+Correr el comando npm run start
+Ir a https://localhost:3000
+Desplegar en el internet
+Desplegar el repositorio en un host para node
+Visitar la direccion web proporcionada.
